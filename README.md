@@ -1,0 +1,1 @@
+Request Permission is a simple Android project which shows how to request permissions in Android Marshmallow.
