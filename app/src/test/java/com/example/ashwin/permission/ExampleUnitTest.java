@@ -1,4 +1,4 @@
-package com.example.ashwin.requestpermission;
+package com.example.ashwin.permission;
 
 import org.junit.Test;
 

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RequestPermission.iml" filepath="$PROJECT_DIR$/RequestPermission.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/Permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Permissions.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Permissions.app.iml" />
     </modules>
   </component>
 </project>
